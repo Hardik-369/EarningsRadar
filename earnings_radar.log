@@ -1,0 +1,4 @@
+2025-07-05 16:05:23,365 - earnings_scraper - ERROR - Error scraping NASDAQ earnings: There is no current event loop in thread 'ScriptRunner.scriptThread'.
+2025-07-05 16:05:40,718 - earnings_scraper - WARNING - No earnings data scraped from any source, using sample data
+2025-07-05 16:13:45,796 - earnings_scraper - INFO - Successfully scraped 13 earnings from _scrape_marketwatch_earnings
+2025-07-05 16:24:22,827 - earnings_scraper - INFO - Successfully scraped 13 earnings from _scrape_marketwatch_earnings
